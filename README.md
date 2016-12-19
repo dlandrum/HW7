@@ -1,2 +1,2 @@
-# HW7
-Homework 7 from CSCE 240
+# Group5
+Project 7 for CSCE 240
